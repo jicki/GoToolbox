@@ -1,6 +1,20 @@
 # GoToolbox
 
 
+### Go工具集合
+
+1. `Gin` 框架
+
+2. `GORM` 数据库操作
+
+3. `Gin-Session` Session操作
+
+4. `godotenv` 程序读取环境变量,用于程序读取配置文件
+
+5. `Gin-Cors` 跨域中间件, 解决前后端跨域
+
+
+
 ### 目录说明
 
 1. `api` 文件夹就是MVC框架的`controller`, 负责协调各部件完成任务
