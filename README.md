@@ -5,7 +5,7 @@
 
 1. `Gin` 框架
 
-2. `GORM` 数据库操作
+2. `GORM` 数据库操作. Docs:(http://gorm.io/zh_CN/)
 
 3. `Gin-Session` Session操作
 
