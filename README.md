@@ -3,15 +3,17 @@
 
 ### Go工具集合
 
-1. `Gin` 框架
+1. `Gin` 框架. Docs: (https://gin-gonic.com/zh-cn/)
 
-2. `GORM` 数据库操作. Docs:(http://gorm.io/zh_CN/)
+2. `GORM` 数据库操作. Docs: (http://gorm.io/zh_CN/)
 
-3. `Gin-Session` Session操作
+3. `Gin-Session` Session操作. Docs: (https://github.com/gin-contrib/sessions)
 
-4. `godotenv` 程序读取环境变量,用于程序读取配置文件
+4. `godotenv` 程序读取环境变量,用于程序读取配置文件. Docs: (https://github.com/joho/godotenv)
 
-5. `Gin-Cors` 跨域中间件, 解决前后端跨域
+5. `Gin-Cors` 跨域中间件, 解决前后端跨域. Docs: (https://github.com/gin-contrib/cors)
+
+6. `Go-Redis` Golang 操作redis Docs: (https://github.com/go-redis/redis)
 
 
 
