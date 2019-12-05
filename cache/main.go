@@ -23,7 +23,7 @@ func Redis() {
 	_, err := client.Ping().Result()
 
 	if err != nil {
-		util.Log().Panic("连接Redis不成功", err)
+		util.Log().Panic("连接Redis不成功 %v\n", err)
 	}
 
 	RedisClient = client
